@@ -1,0 +1,14 @@
+.auth-container{
+	margin-top:90px;
+}
+
+.help-block{
+	color: #ed5565;
+}
+
+.help-block strong{
+	font-weight: normal;
+}
+.password-reset-text{
+	margin-top: 10px;
+}
